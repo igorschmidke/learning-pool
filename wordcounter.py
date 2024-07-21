@@ -4,4 +4,4 @@ for a in arquivo:
         raw = arq.read()
         raw.lstrip()
         raw = raw.split(" ")
-        print(f"Arquivo {a} contém {len(raw)} palavras.")
+        print(f"O arquivo {a} contém {len(raw)} palavras!!")
